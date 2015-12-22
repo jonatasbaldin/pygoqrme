@@ -11,7 +11,7 @@ class Api(object):
     """
 
     def __init__(self):
-            """
+        """
         Just sets an url regex validator
         """
 
